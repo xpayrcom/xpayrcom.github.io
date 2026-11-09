@@ -58,3 +58,5 @@
 - [OpenAI Custom GPT Actions Spec](https://xpayrcom.github.io/openapi-gpt-actions.json)
 - [Extended LLM Reference](https://xpayrcom.github.io/llms-full.txt)
 - [Main XPayr llms.txt](https://xpayr.com/llms.txt)
+
+- Interactive OpenAPI 3.1.0 Playground: https://api-docs.xpayr.com/
